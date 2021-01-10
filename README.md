@@ -1,7 +1,6 @@
 <p align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=fbd2d7&height=30&section=header&text=Jihyun247&fontColor=ff79c6&fontSize=15&animation=fadeIn)
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=fbd2d7&height=30&section=header&text=🎶jihyun's dev🎶&fontColor=ff79c6&fontSize=15&animation=fadeIn)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun247&count_bg=%2379C83D&title_bg=%23555555&icon=about-dot-me.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
