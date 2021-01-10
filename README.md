@@ -1,13 +1,15 @@
 <p align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=fbd2d7&height=30&section=header&text=🎶jihyun's dev🎶&fontColor=ff79c6&fontSize=15&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=fbd2d7&height=20&section=header&animation=fadeIn)
+
+### 👋 Hi there
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun247&count_bg=%2379C83D&title_bg=%23555555&icon=about-dot-me.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Jihyun247&count_private=true&show_icons=true&theme=dracula)](https://github.com/Jihyun247/github-readme-stats)
 
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=fbd2d7&height=30&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=fbd2d7&height=20&section=footer&animation=fadeIn)
 
 </p>
 
