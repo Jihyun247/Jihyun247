@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=F5dF4D&height=300&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F5dF4D&height=50&section=header&fontSize=90)
 ### Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihyun247&count_bg=%2379C83D&title_bg=%23555555&icon=about-dot-me.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -6,7 +6,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=Jihyun247&count_private=true&show_icons=true&theme=dracula)](https://github.com/Jihyun247/github-readme-stats)
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=939597&height=300&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=939597&height=50&section=footer&fontSize=90)
 
 <!--
 **Jihyun247/Jihyun247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
