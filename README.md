@@ -20,7 +20,33 @@
 
 <!--START:TELEMETRY-->
 ```
-아직 세션이 시작되지 않았습니다. Actions에서 F1 Telemetry 워크플로를 한 번 실행하세요.
+╔══════════════════════════════════════════════╗
+║   FORMULA 1 · 2026 DEVELOPER CHAMPIONSHIP    ║
+╠════╦══════════════════╦══════════╦═══════════╣
+║ P1 ║ SWIFT            ║ 1:12.183 ║     —     ║
+║ P2 ║ OBJECTIVE-C      ║ 1:20.270 ║  +8.087   ║
+║ P3 ║ PYTHON           ║ 1:23.796 ║  +11.613  ║
+║ P4 ║ C++              ║ 1:25.456 ║  +13.273  ║
+║ P5 ║ C                ║ 1:25.860 ║  +13.677  ║
+║ P6 ║ JAVASCRIPT       ║ 1:26.363 ║  +14.181  ║
+║ P7 ║ JAVA             ║ 1:26.775 ║  +14.592  ║
+║ P8 ║ KOTLIN           ║ 1:27.183 ║  +15.000  ║
+╚════╩══════════════════╩══════════╩═══════════╝
+
+ SECTOR TIMES ──────────────────────────────────
+ S1  MORNING  █░░░░░░░░░      43 commits    5.0%
+ S2  DAYTIME  ███████░░░     265 commits   31.0%
+ S3  EVENING  ██████████     356 commits   41.7%  ⏱ PURPLE
+ S4  NIGHT    █████░░░░░     190 commits   22.2%
+
+ 🌆 EVENING SPEC — 최고 기록은 S3에서 나옵니다
+
+ RACE CONTROL ──────────────────────────────────
+ GRANDS PRIX       854     WINS              252
+ PODIUMS           259     FASTEST LAPS      194
+ CONSTRUCTORS       10     SEASONS             7
+
+ LAST UPDATED  2026-08-11 12:25 KST  ·  TZ Asia/Seoul
 ```
 <!--END:TELEMETRY-->
 
