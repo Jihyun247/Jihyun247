@@ -46,7 +46,7 @@
  PODIUMS           259     FASTEST LAPS      194
  CONSTRUCTORS       10     SEASONS             7
 
- LAST UPDATED  2026-08-12 11:41 KST  ·  TZ Asia/Seoul
+ LAST UPDATED  2026-08-13 11:43 KST  ·  TZ Asia/Seoul
 ```
 <!--END:TELEMETRY-->
 
